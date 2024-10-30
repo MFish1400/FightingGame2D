@@ -16,6 +16,7 @@ public class HelloApplication extends Application {
         stage.setScene(scene);
         stage.show();
         int a = 7;
+        double b = 1.5;
     }
 
     public static void main(String[] args) {
